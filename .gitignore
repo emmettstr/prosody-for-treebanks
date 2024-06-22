@@ -1,0 +1,7 @@
+CONLL_files/
+CONLL_outfiles/
+PITCHTIER/
+SLAM_output/
+WAV/
+.DS_Store
+conll.py
